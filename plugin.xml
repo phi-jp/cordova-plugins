@@ -5,5 +5,6 @@
         <clobbers target="cordova.plugins.cordova-plugins" />
     </js-module>
     <!-- dependency -->
-    <dependency id="cordova-plugin-ad-unityadssdk" url="https://github.com/cranberrygame/cordova-plugin-ad-unityadssdk" />  
+    <dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device" />
+    <dependency id="cordova-plugin-statusbar" />
 </plugin>
