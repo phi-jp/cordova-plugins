@@ -5,6 +5,6 @@
         <clobbers target="cordova.plugins.cordova-plugins" />
     </js-module>
     <!-- dependency -->
-    <dependency id="cordova-plugin-device" />
+    <dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device.git" />
     <dependency id="cordova-plugin-statusbar" />
 </plugin>
