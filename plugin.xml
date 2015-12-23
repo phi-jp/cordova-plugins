@@ -5,6 +5,10 @@
         <clobbers target="cordova.plugins.cordova-plugins" />
     </js-module>
     <!-- dependency -->
-    <dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device" />
+    <dependency id="cordova-plugin-device" />
     <dependency id="cordova-plugin-statusbar" />
+    <dependency id="cordova-plugin-game-center" />
+    <dependency id="cordova-launch-review" />
+    <dependency id="cordova-plugin-social-message" />
+    <dependency id="cordova-plugin-crosswalk-webview" />
 </plugin>
